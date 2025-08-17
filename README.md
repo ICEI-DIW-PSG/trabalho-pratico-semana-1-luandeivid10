@@ -4,17 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Luan Deivid Oliveira Ferreira
+Matrícula: 904044git commit -m "Alterações no arquivo README.md - matrícula: 123456"
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela Navegador](images/yt.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
-
+![Print Replit](images/print-replit.png)
 
 ## Orientações sobre Linguagem MarkDown
 
